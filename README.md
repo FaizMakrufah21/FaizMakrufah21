@@ -54,6 +54,7 @@
 
 <div align="center">
   <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlsZGg0enQzc2YzNGF4ejN4eDQxd3RzMGJpaXg4eHQ3NWZwYWJlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
+  <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlsZGg0enQzc2YzNGF4ejN4eDQxd3RzMGJpaXg4eHQ3NWZwYWJlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
 </div>
 
 ###
@@ -131,6 +132,8 @@
 ###
 <!--
 <picture> 
+<!--
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizMakrufah21/FaizMakrufah21/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizMakrufah21/FaizMakrufah21/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaizMakrufah21/FaizMakrufah21/output/pacman-contribution-graph.svg">
@@ -141,3 +144,4 @@
 <img src="https://raw.githubusercontent.com/FaizMakrufah21/FaizMakrufah21/output/snake.svg" alt="Snake animation" />
 
 ###
+
